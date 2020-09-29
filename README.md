@@ -1,3 +1,8 @@
+## How To Use 
+Just clone the project to anywhere in your computer. Run composer install
+php artisan migrate --seed
+and php artisan migrate
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
