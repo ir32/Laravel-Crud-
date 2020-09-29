@@ -1,9 +1,9 @@
 ## How To Use 
-Just clone the project to anywhere in your computer. Run composer install
-php artisan migrate --seed
-and php artisan migrate
+<p>Just clone the project to anywhere in your computer. Run composer install</p>
+<p>php artisan migrate --seed</p>
+<p> php artisan migrate</p>
 
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
